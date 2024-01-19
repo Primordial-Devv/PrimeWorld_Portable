@@ -29,6 +29,5 @@ client_scripts {
 
 dependencies {
     'es_extended',
-    'cron',
     'esx_addonaccount'
 }
